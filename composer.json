@@ -1,0 +1,19 @@
+{
+    "name": "AlanPich/Modx-Vapor",
+    "version": "1.0.0",
+    "homepage": "http://github.com/alanpich/modx-vapor/",
+    "license": "GPL-2",
+    "description": "Composer-compliant, class-based implementation of MODX Vapor transporter",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Alan Pich",
+            "email": "alan.pich@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-0": { "AlanPich\\Modx\\Vapor": "src/" }
+    }
+
+}
